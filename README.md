@@ -11,7 +11,7 @@ class marcel:
             "discord": ["Yukinoyo#2096"]
 ```
 
-- 👌 Feel free to contact me: 
+- 👌 Feel free to contact me
 
 
 
