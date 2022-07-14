@@ -8,6 +8,7 @@ class marcel:
             "personal info": ["Marcel", "Voigt", "30", "Apache Attack Helicopter"],
             "portfolio": ["work in progress"],
             "location": ["Germany", "Niedersachsen"],
+            "discord": ["Yukinoyo#2096"]
 ```
 
 - 👌 Feel free to contact me: 
