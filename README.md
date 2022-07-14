@@ -10,13 +10,6 @@ class marcel:
             "location": ["Germany", "Niedersachsen"],
 ```
 
-```css
-h1 {
-background-color: blue;
-}
-
-```
-
 - 👌 Feel free to contact me: 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcelVoigt92&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVoigt92&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
@@ -28,6 +21,4 @@ background-color: blue;
 <a href="https://github.com/MarcelVoigt92">
   <img src="https://img.shields.io/github/stars/MarcelVoigt92">
 </a>
-<!--
-<image src="">
-<image src=""> -->
+
