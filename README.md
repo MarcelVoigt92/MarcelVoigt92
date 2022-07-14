@@ -1,5 +1,5 @@
 # Aloha 🌊
-- 👀 I am currently in school to become a web developer
+- 👀 **I am currently in school to become a web developer**
 ```python
 class marcel:
   def __init__(info):
