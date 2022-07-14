@@ -8,7 +8,7 @@ class marcel:
             "personal info": ["Marcel", "Voigt", "30", "Apache Attack Helicopter"],
             "portfolio": ["work in progress"],
             "location": ["Germany", "Niedersachsen"],
-´´´
+```
 
 - 👌 Feel free to contact me: 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcelVoigt92&show_icons=true&theme=synthwave)
