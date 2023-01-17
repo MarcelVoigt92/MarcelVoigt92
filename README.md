@@ -22,8 +22,8 @@ class marcel:
   <image src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"> <image src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> <image src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <image src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white">
       
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alirusta&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alirusta&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcelVoigt92&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelVoigt92&langs_count=3&show_icons=true&theme=synthwave)](https://youtu.be/dQw4w9WgXcQ)
 
 
 <a href="https://github.com/MarcelVoigt92">
